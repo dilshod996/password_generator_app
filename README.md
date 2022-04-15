@@ -1,3 +1,4 @@
+# check master branch for whole code
 # password_generator_app
 # Tkinter python application
 
